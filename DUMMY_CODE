@@ -1,7 +1,5 @@
 #include <barbon.h>
 main( seq conseq )
-<<<<<<< HEAD
 { // dizque code - x098fff000 }
-=======
-{ // dizque code -This is not HEX! }
->>>>>>> f79940de09008d059453aaec281b539fd3dafde0
+//
+//  This is the new code! :  --->  "NEW CODE"
